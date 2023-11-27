@@ -9,10 +9,10 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "STAT of ML 2021"
+title: "STAT of ML 2024"
 email: "barunik@fsv.cuni.cz"
 description: "DyMoDiF - Dynamic Models for the Digital Finance"
-baseurl: "/Prague2021"
+baseurl: "/Prague2024"
 url: "http://barunik.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
@@ -51,6 +51,9 @@ navigationLinks:
 #bottomNavigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
+- {link: "https://barunik.github.io/Prague2022/", text: "STAT of ML 2023"}
+- {link: "https://barunik.github.io/Prague2022/", text: "STAT of ML 2022"}
+- {link: "https://barunik.github.io/Prague2021/", text: "STAT of ML 2021"}
 - {link: "https://barunik.github.io/Prague2020/", text: "STAT of ML 2020"}
 - {link: "https://barunik.github.io/Prague2019/", text: "STAT of ML 2019"}
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -58,7 +61,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "sixwaysandco.jpg" # "Meter-Data-Management-Itron.jpg" # Big-Data-570x300.jpg" #hero.jpg"
 heroTitle: "<typeout>"
-eventDate: "October 7 - October 8, 2021"
+eventDate: "September 27 2024"
 typeoutTextValues: '"STAT of ML", "Statistics of Machine Learning", ""'
 typeoutFallback: "Statistics of Machine Learning"
 #heroButtons:
@@ -81,7 +84,7 @@ aboutBlock:
 # - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "October 7 - October 8, 2021 in Prague"
+latestNewsTitle: "September 27, 2024 in Prague"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
