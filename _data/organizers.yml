@@ -1,0 +1,10 @@
+-
+  group: "Organizers"
+  elements:
+    - {name: "UTIA Czech Academy of Sciences", description: "UTIA AV CR v.v.i.", link: "http://www.utia.cas.cz/welcome-utia", imageUrl: "Logo-utia.gif"}
+    - {name: "IES Charles University", description: "IES FSV UK", link: "http://ies.fsv.cuni.cz", imageUrl: "logo.png"}
+    - {name: "MFF Charles University", description: "MFF UK", link: "http://www.karlin.mff.cuni.cz/%7Ekpms/?vyber=uvod&lang=en", imageUrl: "logo300.gif"}
+    - {name: "Humboldt-Universität zu Berlin", description: "Humboldt-Universität zu Berlin", link: "https://www.wiwi.hu-berlin.de/en/mainpage?set_language=en", imageUrl: "logoHU.png"}
+    - {name: "International Research Training Group 1792", description: "International Research Training Group 1792", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/", imageUrl: "irtg.png"}
+    - {name: "Blockchain Research Center", description: "Blockchain Research Center", link: "http://hu.berlin/brc", imageUrl: "BRC.png"}
+    - {name: "Fintech and Artificial Intelligence in Finance", description: "Fintech and Artificial Intelligence in Finance", link: "https://fin-ai.eu", imageUrl: "fin-logo.png"}

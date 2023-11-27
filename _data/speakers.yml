@@ -1,0 +1,372 @@
+
+-
+  id: 1
+  name: "Wolfgang Karl"
+  surname: "Härdle"
+  company: "Humboldt-Universität zu Berlin"
+  title: "Professor"
+  bio: '<p></p>'
+  thumbnailUrl: 20141129_WKH.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "www.quantlet.de"}
+-
+  id: 2
+  name: "Jozef"
+  surname: "Barunik"
+  company: "Academy of Sciences and Charles University"
+  title: "Associate Professor"
+  bio: "Jozef Baruník is an Associate Professor at the Institute of Economic Studies, Charles University in Prague.
+  He also serves as a head of the Econometrics department at the Czech Academy of Sciences. In his research,
+  he develops mathematical models for understanding financial problems (such as measuring and managing financial risk),
+  develops statistical methods and analyzes financial data. Especially, he is interested in asset pricing, high-frequency data,
+  financial econometrics, machine learning, high-dimensional financial data sets (big data), and frequency domain econometrics
+  (cyclical properties and behavior of economic variables)."
+  thumbnailUrl: Barunik_profil.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://barunik.github.io"}
+-
+  id: 3
+  name: "Milos"
+  surname: "Kopa"
+  company: "Charles University"
+  title: "Associate Professor"
+  bio: '<p></p>'
+  thumbnailUrl: mk.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "www.quantlet.de"}
+
+-
+  id: 4
+  name: "Dolores"
+  surname: "Romero Morales"
+  company: "Copenhagen Business School"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: morales.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.cbs.dk/en/research/departments-and-centres/department-of-economics/staff/drmeco"}
+
+-
+  id: 5
+  name: "Cathy"
+  surname: "Yi-Hsuan Chen"
+  company: "Adam Smith Business School, University of Glasgow"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: cathy.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.gla.ac.uk/schools/business/staff/cathyyi-hsuanchen//"}
+
+-
+  id: 6
+  name: "Florentina"
+  surname: "Paraschiv"
+  company: "Zeppelin University and Norwegian University of Science and Technology"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: paraschiv.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.ntnu.edu/employees/florentina.paraschiv"}
+
+-
+  id: 7
+  name: "Christian"
+  surname: "Brownlees"
+  company: "Universitat Pompeu Fabra"
+  title: "Professor"
+  bio: '<p></p>'
+  thumbnailUrl: brownlees.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "econ.upf.edu/~cbrownlees"}
+
+-
+  id: 8
+  name: "Tomáš"
+  surname: "Cipra"
+  company: "Charles University"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: cipra.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www2.karlin.mff.cuni.cz/~cipra/"}
+
+-
+  id: 9
+  name: "Zuzana"
+  surname: "Prášková"
+  company: "Charles University"
+  title: "Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: praskova.jpg
+  rockstar: false
+  #social:
+#    - {name: "homepage", link: "http://artax.karlin.mff.cuni.cz/~branm1am/indexEN.html"}
+
+-
+  id: 10
+  name: "Martin"
+  surname: "Branda"
+  company: "Charles University"
+  title: "Assistant Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: branda.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://artax.karlin.mff.cuni.cz/~branm1am/indexEN.html"}
+
+
+#-
+#  id: 10
+#  name: "Lukas"
+#  surname: "Vacha"
+#  company: "Academy of Sciences and Charles University"
+#  title: "Senior Researcher"
+#  bio: '<p> </p>'
+#  thumbnailUrl: vacha.jpg
+#  rockstar: false
+#  social:
+#    - {name: "homepage", link: "https://www.utia.cas.cz/people/vacha"}
+
+-
+  id: 11
+  name: "Frantisek"
+  surname: "Cech"
+  company: "Academy of Sciences and Charles University"
+  title: "Assistant Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: cech.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://ies.fsv.cuni.cz/en/staff/fcech"}
+
+-
+  id: 12
+  name: "Jens Perch"
+  surname: "Nielsen"
+  company: " Bayes Business School"
+  title: "Professor"
+  bio: '<p>Actuary from Copenhagen and statistician from UC-Berkeley. Worked as appointed actuary in his young days and led various product development departments before specialising in research and development. He became research director of RSA with responsibilities in life as well as non-life in 1999. From 2006 until 2012 he worked as an entreprenuer and he is still co-owner and board member of Copenhagen based ScienceFirst, London based Operational Science and Cyprus based Emergent. He is co-author of more than 100 scientific papers in reviewed journals of actuarial science, economics, econometrics and statistics and also one book on quantitative operational risk modelling and associate editor of a number of journals.</p>'
+  thumbnailUrl: nielsen.jpg
+  rockstar: false
+  social:
+    - {name: "github", link: "https://www.cass.city.ac.uk/faculties-and-research/experts/jens-perch"}
+
+-
+  id: 13
+  name: "Arild Brandrud"
+  surname: "Næss"
+  company: "NTNU Business School"
+  title: "Associate professor of statistics"
+  thumbnailUrl: arild.jpg
+  rockstar: false
+  social:
+    - {name: "github", link: "https://www.ntnu.edu/employees/arild.naess"}
+
+-
+  id: 14
+  name: "Sebastiano"
+  surname: "Vitali"
+  company: "Charles University"
+  title: "Assitant Professor"
+  bio: '<p> </p>'
+  thumbnailUrl: sebastiano.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www2.karlin.mff.cuni.cz/~vitali/"}
+
+
+-
+  id: 20
+  name: "Kainat"
+  surname: "Khowaja"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: khowaja.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/kainat-khowaja"}
+
+-
+  id: 21
+  name: "Anna"
+  surname: "Shchekina"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: schenkina.png
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/anna-shchekina"}
+
+-
+  id: 22
+  name: "Julian"
+  surname: "Winkel"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: winkel.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/julian-winkel/Julian%20Winkel"}
+
+#-
+#  id: 23
+#  name: "Raphael"
+#  surname: "C. G. Reule"
+#  company: "Humboldt-Universität zu Berlin"
+#  title: "PhD student"
+#  bio: '<p> </p>'
+#  thumbnailUrl: reule.jpg
+#  rockstar: false
+
+-
+  id: 24
+  name: "Ruting"
+  surname: "Wang"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: rutingwang.png
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/ruting-wang/wangruti"}
+
+#-
+#  id: 25
+#  name: "Lubos"
+#  surname: "Hanus"
+#  company: "Academy of Sciences and Charles University"
+#  title: "PhD student"
+#  bio: '<p> </p>'
+#  thumbnailUrl: hanus.png
+#  rockstar: false
+#  social:
+#    - {name: "homepage", link: "http://ies.fsv.cuni.cz/en/staff/hanusl"}
+
+-
+  id: 26
+  name: "Martin"
+  surname: "Hronec"
+  company: "Academy of Sciences and Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: hronec.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "http://ies.fsv.cuni.cz/en/staff/hronec"}
+
+-
+  id: 27
+  name: "Josef"
+  surname: "Kurka"
+  company: "Academy of Sciences and Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: pepa.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://ies.fsv.cuni.cz/cs/staff/kurka"}
+
+-
+  id: 28
+  name: "Matej"
+  surname: "Nevrla"
+  company: "Academy of Sciences and Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: nevrla.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://ies.fsv.cuni.cz/en/staff/nevrla"}
+
+-
+  id: 29
+  name: "Lenka"
+  surname: "Nechvatalova"
+  company: "Academy of Sciences and Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: nechvatalova.jpg
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://ies.fsv.cuni.cz/en/staff/nechvatalova"}
+
+-
+  id: 30
+  name: "Wei"
+  surname: "Li"
+  company: "Norwegian University of Science and Technology"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: weili.png
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.ntnu.edu/employees/wei.n.li"}
+
+-
+  id: 31
+  name: " Min-Bin"
+  surname: "Lin"
+  company: "Humboldt-Universität zu Berlin"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: minbinlin.png
+  rockstar: false
+  social:
+    - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/min-bin-lin"}
+
+-
+  id: 32
+  name: "Petra"
+  surname: "Laketa"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p></p>'
+  thumbnailUrl: laketa.jpg
+  rockstar: false
+
+-
+  id: 33
+  name: "Daniel"
+  surname: "Mittendorf"
+  company: "Adam Smith Business School, University of Glasgow"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: mittendorf.jpg
+  rockstar: false
+  #social:
+  #  - {name: "homepage", link: "https://www.wiwi.hu-berlin.de/de/forschung/irtg/participating-faculty/students/personal-pages/min-bin-lin"}
+
+-
+  id: 34
+  name: "Karel"
+  surname: "Kozmik"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  thumbnailUrl: kozmikkarel.jpg
+  rockstar: false
+  #social:
+  # - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}
+
+-
+  id: 35
+  name: "Petr"
+  surname: "Vejmelka"
+  company: "Charles University"
+  title: "PhD student"
+  bio: '<p> </p>'
+  #thumbnailUrl: kozmikkarel.jpg
+  rockstar: false
+  #social:
+  # - {name: "homepage", link: "http://karlin.mff.cuni.cz/~rusy/"}
